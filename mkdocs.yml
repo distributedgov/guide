@@ -1,0 +1,9 @@
+site_name: Distributed Government Guide
+repo_url: https://github.com/distributedgov/guide
+site_url: https://handbook.civicactions.com/en/latest/
+theme:
+    name: readthedocs
+plugins:
+    - search
+extra_css:
+    - css/extra.css

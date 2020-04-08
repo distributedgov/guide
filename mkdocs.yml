@@ -7,3 +7,7 @@ plugins:
     - search
 extra_css:
     - css/extra.css
+
+pages:
+    - Welcome: README.md
+    - Why: why.md

@@ -11,3 +11,5 @@ extra_css:
 pages:
     - Welcome: README.md
     - Why: why.md
+    - Getting started: getting-started.md
+    - License: why.md

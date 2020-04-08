@@ -1,1 +1,1 @@
-# Distributed Government Guide (coming soon!)
+# Distributed Government Guide

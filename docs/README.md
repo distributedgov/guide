@@ -1,4 +1,4 @@
-# Welcome to the Distributed Government Guide
+# Welcome
 
 Welcome to the Guide to Distributed Government, a community resource to help public service team leaders and members build effective remote/telework environments.
 

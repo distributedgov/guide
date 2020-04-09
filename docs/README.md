@@ -18,6 +18,14 @@ Each topic is simplified into four sections:
 * Tools
 * Resources
 
+## Contents
+
+* [Welcome](README.md)
+* [Why](why.md)
+* [Getting started](getting-started.md)
+* [Help](help.md)
+* [License](license-info.md)
+
 ## Connect
 
 * [Join the DistributedGov Slack community](https://distributedgov.herokuapp.com/)

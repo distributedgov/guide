@@ -1,7 +1,7 @@
-# Distributed Government Guide (coming soon!)
+# Distributed Government Guide
 
+See: [guide.distributedgov.org](https://guide.distributedgov.org)
 
 # License
-Copyright 2020 CivicActions, Inc.
 
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).

@@ -14,7 +14,6 @@ This guide is for local, state and federal:
 Each topic is simplified into four sections:
 
 * Checklist
-* Tips
 * Tools
 * Resources
 

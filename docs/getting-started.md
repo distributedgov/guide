@@ -6,7 +6,7 @@ How to effectively transition from collocated to a distributed team.
 
 ### Establish policies and permissions
 
-* Obtain written approval (if necessary) for employees to work from home.
+- [ ] Obtain written approval (if necessary) for employees to work from home.
 
 * Read your agency’s [telework policy](https://www.businessnewsdaily.com/7749-create-telecommuting-policy.html) or establish one if needed.
 

@@ -22,6 +22,8 @@ Each topic is simplified into four sections:
 * [Welcome](README.md)
 * [Why](why.md)
 * [Getting started](getting-started.md)
+* [Security](security.md)
+* [Policies](policies.md)
 * [Help](help.md)
 * [License](license-info.md)
 

@@ -1,3 +1,5 @@
+# Policies
+
 Examples of official remote/telework policies by state:
 
 * Alabama

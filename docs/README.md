@@ -23,6 +23,7 @@ Each topic is simplified into four sections:
 * [Why](why.md)
 * [Getting started](getting-started.md)
 * [Security](security.md)
+* [Communications](communications.md)
 * [Policies](policies.md)
 * [Help](help.md)
 * [License](license-info.md)

@@ -1,6 +1,6 @@
 # Getting started
 
-How to effectively transition from collocated to a distributed team.
+How to effectively transition from co-located to a distributed team.
 
 ## Checklist for team leaders
 
@@ -11,6 +11,8 @@ How to effectively transition from collocated to a distributed team.
 * Read your agency’s [telework policy](https://www.businessnewsdaily.com/7749-create-telecommuting-policy.html) or establish one if needed.
 
 * Read — and revise, if needed — the security policy regarding telework activities.
+
+* Create policy on what equipment will be provided / reimbursed by the agency.
 
 ### Set up tech infrastructure
 
@@ -70,7 +72,7 @@ How to effectively transition from collocated to a distributed team.
 
 ### Know your agency’s policies and procedures
 
-* Security Policy
+* Security and data handling procedures (get clear, written guidance)
 
 * Telework Policy
 
@@ -79,6 +81,8 @@ How to effectively transition from collocated to a distributed team.
 * Employee Safety Policy
 
 * Telework Assignment Logs (or similar tracking procedures)
+
+* Request changes to your agency’s policies if you see areas for improvement (and find other agencies you can point to as examples)
 
 ### Run experiments before leaving the office
 
@@ -153,6 +157,8 @@ How to effectively transition from collocated to a distributed team.
 * [How to Embrace Remote Work](https://info.trello.com/hubfs/How_To_Embrace_Remote_Work_Trello_Ultimate_Guide.pdf) (Trello)
 
 * [OMG I’m working remotely, now what?!](https://benediktlehnert.github.io/) (Benedikt Lehnert)
+
+* [Transitioning from offices to distributed teams during a crisis](https://oduinn.com/2020/03/03/transitioning-from-offices-to-distributed-teams/) (John O’Duinn)
 
 ### Books
 

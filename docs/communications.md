@@ -154,4 +154,4 @@ Communication strategies to help distributed teams work together effectively.
 
 * [REMOTE: Office Not Required](https://basecamp.com/books/remote) (Basecamp)
 
-* [The Year Without Pants: WordPress.com and the Future of Work](https://scottberkun.com/yearwithoutpants/) (Scott Berkun
+* [The Year Without Pants: WordPress.com and the Future of Work](https://scottberkun.com/yearwithoutpants/) (Scott Berkun)

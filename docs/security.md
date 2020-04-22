@@ -1,70 +1,98 @@
 # Security
 
-How to securely conduct government work as a distributed team.
-
 ## Checklist for team leaders
 
-* Review telework agreements and policies to ensure they comply with your agency’s information security policies (and resolve any discrepancies).
+### Establish policies and processes
+
+* Review telework agreements and policies to ensure they comply with your agency’s information security policies.
 
 * Create a clear, written data handling policy that accounts for realities of working outside a physical office (e.g., working on the laptop in view of family members).
 
-* Set up a Virtual Private Network ([VPN](https://www.howtogeek.com/133680/htg-explains-what-is-a-vpn/)) for secure internet connection, and confirm that your employees can access it from their homes.
+* Enforce personal privacy requirements for records.
 
-* Choose a [password manager tool](https://www.digitaltrends.com/computing/best-password-managers/) and make sure teams adopt it for secure, unique passwords across all logins (and provide training on how to use it).
-
-* Make sure the right employees can securely login and access systems remotely (this can mean expanding access for some employees and limiting it for others).
-
-* Provide periodic information systems security training.
-
-* Invest in technology and equipment that can support secure remote work success.
-
-* Enforce [multifactor authentication](https://medium.com/@mshelton/two-factor-authentication-for-beginners-b29b0eec07d7) across agency systems and employee logins.
+* Keep all policies accessible in a place where everyone knows to look for them (like Confluence or other team collaboration tool).
 
 * Track removal and return of potentially sensitive materials, such as personnel records.
 
-* Train employees to recognize and avoid phishing attacks (here’s a [simple quiz](https://phishingquiz.withgoogle.com/) you can use to test employee awareness)
+### Enforce secure login practices
 
-* Enforce personal privacy requirements for records.
+* Choose a [password manager](https://www.digitaltrends.com/computing/best-password-managers/) and make sure teams adopt it for secure, unique passwords across all logins.
+
+* Enforce [two-factor authentication](https://medium.com/@mshelton/two-factor-authentication-for-beginners-b29b0eec07d7) across agency systems and employee logins.
+
+* Provide training on use of password management and two-factor authentication (this can be a simple half-day workshop to onboard everyone to the tools and practice using them).
+
+* Explicitly forbid the use of passwords written on sticky notes or browser auto-fill passwords for agency system logins.
+
+### Ensure secure systems access for teams
+
+* Set up a Virtual Private Network ([VPN](https://www.howtogeek.com/133680/htg-explains-what-is-a-vpn/)) for secure internet connection, and confirm that your employees can access it from their homes.
+
+* Make sure the right employees can securely login and access systems remotely (this can mean expanding access for some employees and limiting it for others).
+
+* Consider reimbursing employees if they need to use their mobile hotspot for remote systems access.
+
+### Provide security training
+
+* Information systems security training (can be provided by third-party vendor)
+
+* Workshops for setting up and using password manager and two-factor authentication
+
+* Training on recognizing and avoiding phishing attacks (here’s a [simple quiz](https://phishingquiz.withgoogle.com/) you can use to test employee awareness)
 
 ## Checklist for teams
 
-* Comply with organizational policies and with any additional requirements spelled out in your telework agreement.
+### Beware of phishing / malware / hacking
+
+* Emails that ask you to confirm personal information
+
+* Email addresses or websites that don’t look genuine
+
+* High-intensity subject lines or messaging (i.e., "Urgent COVID Directive!")
+
+* Don’t open attachments you don’t recognize
+
+### Use secure login practices
 
 * Onboard to the password manager tool your team is using
 
-    * Set an example to others if your team isn’t collectively using a password manager
+* Set an example to others if your team isn’t collectively using a password manager (and perhaps offer to lead a one-hour workshop to help colleagues get set up)
 
-    * Avoid browser password autofill or writing passwords on sticky notes
+* Avoid browser password autofill or writing passwords on sticky notes
 
-* Keep your software and systems up-to-date (on phone, browser, and computers).
+### Protect your devices and hardware
 
-* Beware of [phishing](https://staysafeonline.org/blog/5-ways-spot-phishing-emails/):
+* Enable remote lock-out and re-set on your phone / laptop
 
-    * Emails that ask you confirm personal information
+* Require password entry on power-up and login
 
-    * Email addresses or website links that don’t look genuine
+* Close laptop and remove CAC / PIV card when not in use
 
-    * High-intensity subject lines or messaging (i.e., "urgent COVID directive")
+* Encrypt hard disks (and wipe disks before giving away or discarding)
 
-    * Suspicious attachments -- don’t open them
+* Never leave devices in the car or out of your sight
 
-* Avoid unsecured WiFi in public places when working on sensitive information (mobile phone hotspot is also not entirely secure). Use agency [VPN](https://www.howtogeek.com/133680/htg-explains-what-is-a-vpn/) for secure connection.
+* Lock your doors when you leave the house
+
+* Don’t use a thumb drive unless you know where it came from
+
+### Practice good security habits
+
+* Comply with organizational policies and with any additional requirements spelled out in your telework agreement.
 
 * Use only your agency services and tools for email, file sharing, and other work activities -- not your personal accounts. 
 
-* Use best security practices for laptops and mobile devices you are using for work:
+* Avoid unsecured WiFi in public places when working on sensitive information (mobile phone hotspot is also not entirely secure). Use agency [VPN](https://www.howtogeek.com/133680/htg-explains-what-is-a-vpn/) for secure connection.
 
-    * Enable remote lock-out and re-set
+* Keep software and systems up-to-date -- the latest version will always have the best security fixes. This includes:
 
-    * Require password on power-up and login
+    * Cell phone operating system
 
-    * Close laptop and remove CAC / PIV card when not in use
+    * Web browser
 
-    * Encrypt hard disks (and wipe disks before giving away or discarding)
+    * Laptop / computer operating system
 
-    * Never leave devices in the car or out of your sight when traveling
-
-    * Don’t use thumb drives unless you know where they came from
+    * Web tools and apps (video conferencing, etc.)
 
 ## Tools
 
@@ -108,4 +136,8 @@ How to securely conduct government work as a distributed team.
 
 * [Back to basics: Multi-factor authentication (MFA)](https://www.nist.gov/itl/applied-cybersecurity/tig/back-basics-multi-factor-authentication) (NIST)
 
+* [Why you should use a password manager, and how to get started](https://www.howtogeek.com/141500/why-you-should-use-a-password-manager-and-how-to-get-started/) (How To Geek)
+
 * [5 ways to spot a phishing email](https://staysafeonline.org/blog/5-ways-spot-phishing-emails/) (National Cybersecurity Alliance)
+
+* [Zoom security fixes and Zoom bombing](https://oduinn.com/2020/04/04/zoom-security-fixes-and-zoom-bombing/) (John O-Duinn)

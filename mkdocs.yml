@@ -13,7 +13,7 @@ pages:
     - Why: why.md
     - Getting started: getting-started.md
     - Security: security.md
-    - Security: communications.md
+    - Communications: communications.md
     - Policies: policies.md
     - Help: help.md
     - License: license-info.md

@@ -140,4 +140,6 @@
 
 * [5 ways to spot a phishing email](https://staysafeonline.org/blog/5-ways-spot-phishing-emails/) (National Cybersecurity Alliance)
 
+* [Selecting and Safely Using Collaboration Servicesfor Telework](https://media.defense.gov/2020/Apr/24/2002288652/-1/-1/0/CSI-SELECTING-AND-USING-COLLABORATION-SERVICES-SECURELY-LONG-FINAL.PDF) (National Security Agency)
+
 * [Zoom security fixes and Zoom bombing](https://oduinn.com/2020/04/04/zoom-security-fixes-and-zoom-bombing/) (John O-Duinn)

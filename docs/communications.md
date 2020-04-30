@@ -76,9 +76,9 @@ Communication strategies to help distributed teams work together effectively.
 
 * Set group chat channels that prompt non-work conversations
 
-    * #appreciations / #celebrations / etc.
+    * ```#appreciations``` / ```#celebrations``` / etc.
 
-    * #pets / #parenting / #gardening / #health / etc.
+    * ```#pets``` / ```#parenting``` / ```#gardening``` / ```#health``` / etc.
 
 ## Checklist for teams
 

@@ -4,6 +4,30 @@ Communication strategies to help distributed teams work together effectively.
 
 ## Checklist for team leaders
 
+### Establish a ‘Single Source of Truth’
+
+* Create a handbook or similar repository where everyone knows they can go to find up to date information.
+
+* Instruct teams to update this source continually (have them write it into their processes).
+
+* Set an example by updating and referring to it regularly.
+
+* Make the handbook editable (by request) by everyone in the organization.
+
+* This source should contain:
+
+    * Policies and procedures
+
+    * Team agreements
+
+    * Process documentation
+
+    * Links to project boards / documentation
+
+    * Organizational information
+
+    * Team roles / responsibilities
+
 ### Set standards for team communications
 
 * Determine what tools will be used universally among team members (email, chat, etc.)
@@ -48,7 +72,7 @@ Communication strategies to help distributed teams work together effectively.
 
     * "Virtual happy hour" or similar end-of-week team gathering
 
-* Encourage video-by-default for online meetings
+* Encourage video-by-default for [online meetings](https://docs.google.com/document/d/1xrBPTGR_7R5FCGja-p2rXaMcN4NAjuE_6pKqPcYwOvQ/edit#heading=h.mhc69d4guwpe)
 
 * Set group chat channels that prompt non-work conversations
 
@@ -60,7 +84,7 @@ Communication strategies to help distributed teams work together effectively.
 
 ### Work in the open
 
-* Establish a "Single Source of Truth" to document and centralize information
+* Use a "[Single Source of Truth](#heading=h.xys8wwauimls)" to document and centralize information
 
 * Update tickets and documentation continuously
 
@@ -70,7 +94,7 @@ Communication strategies to help distributed teams work together effectively.
 
 * Share drafts and information early and often
 
-* Use collaborative ways of working (i.e., shared note-taking document 
+* Use collaborative ways of working (i.e., shared note-taking document)
 
 * CC relevant people in emails, but be clear about whether a response is expected (and from whom)
 
@@ -120,6 +144,8 @@ Communication strategies to help distributed teams work together effectively.
 
 ## Tools
 
+### Group chat tools
+
 * [Slack](https://slack.com/)
 
 * [Mattermost](https://mattermost.com)
@@ -129,6 +155,14 @@ Communication strategies to help distributed teams work together effectively.
 * [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software)
 
 * [Discourse](https://www.discourse.org/)
+
+### Handbook tools
+
+* [ReadTheDocs](https://readthedocs.org/)
+
+* [Notion](https://www.notion.so/)
+
+* [Google Docs](https://www.google.com/docs/about/)
 
 ## Resources
 
@@ -147,6 +181,16 @@ Communication strategies to help distributed teams work together effectively.
 * [How to keep healthy communication habits in remote teams](https://medium.com/gitlab-magazine/how-to-keep-healthy-communication-habits-in-remote-teams-a19eca371952) (GitLab)
 
 * [The 10 Slack Agreements of Buffer](https://open.buffer.com/slack-agreements/) (Buffer)
+
+* [Why every distributed company needs the perfect handbook](https://www.yonder.io/post/why-every-distributed-company-needs-the-perfect-handbook) (Yonder)
+
+### Team Handbook Examples
+
+* [Technology Transformation Services](https://handbook.tts.gsa.gov/) (formerly 18F)
+
+* [GitLab](https://about.gitlab.com/handbook/)
+
+* [CivicActions](https://handbook.civicactions.com/en/latest/README/)
 
 ### Books
 

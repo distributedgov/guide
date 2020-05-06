@@ -32,7 +32,6 @@ Each topic is simplified into four sections:
 
 ## Connect
 
-* [Join the DistributedGov Slack community](https://distributedgov.herokuapp.com/)
 * [Follow on Twitter](https://twitter.com/distributedgov)
 * [Collaborate on GitHub](https://github.com/distributedgov)
 

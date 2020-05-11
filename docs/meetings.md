@@ -16,7 +16,8 @@ How to hold remote meetings that are effective and productive.
 
     * Breakout rooms
 
-    * Security (including encryption)
+    * Security (including encryption)  
+
 
 * Make sure everyone is using the same tool.
 

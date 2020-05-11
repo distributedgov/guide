@@ -1,5 +1,5 @@
 h1, h2, h3, h4, h5, h6, p, li, blockquote {
-  font-family: 'ubuntubold', sans-serif;
+  font-family: 'Ubuntu Bold', sans-serif;
 }
 h1 {
   font-size: 225%;
@@ -29,7 +29,7 @@ h1 {
 
 
 @font-face {
-    font-family: 'ubuntubold';
+    font-family: 'Ubuntu Bold';
     src: url('fonts/ubuntu-bold-webfont.woff2') format('woff2'),
          url('fonts/ubuntu-bold-webfont.woff') format('woff');
     font-weight: normal;
@@ -41,7 +41,7 @@ h1 {
 
 
 @font-face {
-    font-family: 'ubuntubold_italic';
+    font-family: 'Ubuntu Bold Italic';
     src: url('fonts/ubuntu-bolditalic-webfont.woff2') format('woff2'),
          url('fonts/ubuntu-bolditalic-webfont.woff') format('woff');
     font-weight: normal;
@@ -53,7 +53,7 @@ h1 {
 
 
 @font-face {
-    font-family: 'ubuntuitalic';
+    font-family: 'Ubuntu Italic';
     src: url('fonts/ubuntu-italic-webfont.woff2') format('woff2'),
          url('fonts/ubuntu-italic-webfont.woff') format('woff');
     font-weight: normal;
@@ -65,7 +65,7 @@ h1 {
 
 
 @font-face {
-    font-family: 'ubuntulight';
+    font-family: 'Ubuntu Light';
     src: url('fonts/ubuntu-light-webfont.woff2') format('woff2'),
          url('fonts/ubuntu-light-webfont.woff') format('woff');
     font-weight: normal;
@@ -77,7 +77,7 @@ h1 {
 
 
 @font-face {
-    font-family: 'ubuntulight_italic';
+    font-family: 'Ubuntu Light Italic';
     src: url('fonts/ubuntu-lightitalic-webfont.woff2') format('woff2'),
          url('fonts/ubuntu-lightitalic-webfont.woff') format('woff');
     font-weight: normal;
@@ -89,7 +89,7 @@ h1 {
 
 
 @font-face {
-    font-family: 'ubuntumedium';
+    font-family: 'Ubuntu Medium';
     src: url('fonts/ubuntu-medium-webfont.woff2') format('woff2'),
          url('fonts/ubuntu-medium-webfont.woff') format('woff');
     font-weight: normal;
@@ -101,7 +101,7 @@ h1 {
 
 
 @font-face {
-    font-family: 'ubuntumedium_italic';
+    font-family: 'Ubuntu Medium Italic';
     src: url('fonts/ubuntu-mediumitalic-webfont.woff2') format('woff2'),
          url('fonts/ubuntu-mediumitalic-webfont.woff') format('woff');
     font-weight: normal;
@@ -113,7 +113,7 @@ h1 {
 
 
 @font-face {
-    font-family: 'ubunturegular';
+    font-family: 'Ubuntu Regular';
     src: url('fonts/ubuntu-regular-webfont.woff2') format('woff2'),
          url('fonts/ubuntu-regular-webfont.woff') format('woff');
     font-weight: normal;

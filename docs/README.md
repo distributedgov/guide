@@ -25,6 +25,7 @@ Each topic is simplified into four sections:
 * [Security](security.md)
 * [Communications](communications.md)
 * [Meetings](meetings.md)
+* [Project management](project-management.md)
 * [Technology](technology.md)
 * [Policies](policies.md)
 * [Help](help.md)

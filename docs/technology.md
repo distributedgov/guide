@@ -5,12 +5,12 @@ Recommendations for selecting effective remote/telework technologies and tools.
 ## Checklist
 
 * Web-based 
-
     * Is it accessible to anyone from anywhere? (e.g., via clicking a link)
 
-* Cross-platform
 
+* Cross-platform
     * Does it work on all operating systems? (e.g., Windows, Apple, Linux, etc.)
+
 
 * Mobile
 

@@ -1,8 +1,12 @@
 # Policies
 
+## Federal
+
 Examples of official remote/telework policies at Federal:
 
 * [Telework.gov](https://telework.gov), which is led by [Office of Personnel Management](https://www.opm.gov) 
+
+## States
 
 Examples of official remote/telework policies by state:
 

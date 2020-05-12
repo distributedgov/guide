@@ -144,7 +144,7 @@ How to effectively transition from co-located to a distributed team.
 
 * [Telework Guide](https://www.telework.gov/guidance-legislation/telework-guidance/telework-guide/) (U.S. Office of Personnel Management)
 
-* [Telework Best Practices (CISA)](https://www.cisa.gov/sites/default/files/publications/Telework_Guide_with_NSA_and_DHS_CISA.pdf)
+* [Telework Best Practices](https://www.cisa.gov/sites/default/files/publications/Telework_Guide_with_NSA_and_DHS_CISA.pdf) (CISA)
 
 * [The Remote Playbook](https://about.gitlab.com/resources/downloads/ebook-remote-playbook.pdf) (GitLab)
 

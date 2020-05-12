@@ -155,4 +155,4 @@ How to hold remote meetings that are effective and productive.
 
 * [All-Remote Meetings](https://about.gitlab.com/company/culture/all-remote/meetings/) (GitLab)
 
-* [Tips for video conferencing (CISA)(https://www.cisa.gov/sites/default/files/publications/CISA_Video_Conferencing_Tips_S508C.pdf)
+* [Tips for video conferencing)(https://www.cisa.gov/sites/default/files/publications/CISA_Video_Conferencing_Tips_S508C.pdf) (CISA)

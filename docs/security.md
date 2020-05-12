@@ -126,6 +126,10 @@
 
 * [Cyber-Safety for Mobile Workers](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/information-management-technology/information-security/cyber-safety_for_mobile_workers.pdf) (British Columbia Office of the Chief Information Officer)
 
+* [Cybersecurity Recommendations for critical infrastructure using videoconferencing](https://www.cisa.gov/sites/default/files/publications/CISA_Cybersecurity_Recommendations_for_Critical_Infrastructure_Using_Video_Conferencing_S508C.pdf) (CISA)
+
+* [Guidance for securing videoconferencing](https://www.cisa.gov/sites/default/files/publications/CISA_Guidance_for_Securing_Video_Conferencing_S508C.pdf) (CISA)
+
 ### Videos
 
 * [Telework Security Basics from NIST](https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/684682/uiconf_id/31013851/entry_id/1_h5ch34jx/embed/dynamic)

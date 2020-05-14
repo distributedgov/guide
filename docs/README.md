@@ -24,6 +24,7 @@ Each topic is simplified into four sections:
 * [Getting started](getting-started.md)
 * [Security](security.md)
 * [Communications](communications.md)
+* [Managing](managing.md)
 * [Meetings](meetings.md)
 * [Project management](project-management.md)
 * [Technology](technology.md)

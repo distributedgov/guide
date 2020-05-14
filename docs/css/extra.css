@@ -10,6 +10,9 @@ h1 {
 .wy-nav-side {
   background: #002f43;
 }
+.wy-menu-vertical a {
+  color: #ffffff;
+}
 .wy-nav-content {
   color: #002f43;
 }

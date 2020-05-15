@@ -1,6 +1,6 @@
 # Distributed Government Guide
 
-Welcome to the [Distributed Government](https://distributedgov.org) Guide, a community resource to help public service teams build highly effective remote and telework environments.
+Welcome to the [Distributed Government](https://distributedgov.org) Guide, a community resource helping public service teams build highly effective remote and telework environments.
 
 ## Who it’s for
 

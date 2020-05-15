@@ -11,7 +11,7 @@ This guide is for local, state and federal:
 
 ## How it’s organized
 
-Each topic is simplified into four sections:
+Each topic is simplified into three sections:
 
 * Checklist
 * Tools

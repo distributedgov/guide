@@ -6,8 +6,8 @@ Welcome to the [Distributed Government](https://distributedgov.org) Guide, a com
 
 This guide is for local, state and federal:
 
+* Government team leaders
 * Government team members
-* Government team leads
 
 ## How it’s organized
 

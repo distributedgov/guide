@@ -34,8 +34,7 @@ Each topic is simplified into four sections:
 
 ## Connect
 
-* [Follow on Twitter](https://twitter.com/distributedgov)
-* [Collaborate on GitHub](https://github.com/distributedgov)
+* [Collaborate on GitHub](https://github.com/distributedgov/guide)
 
 ## Contribute
 

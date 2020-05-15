@@ -20,9 +20,10 @@ pages:
     - Project management: project-management.md
     - Technology: technology.md
     - Policies: policies.md
-    - Training: training.md
     - Help: help.md
     - License: license-info.md
+    - DistributedGov: "https://distributedgov.org"
+    - CivicActions: "https://civicactions.com"
 
 markdown_extensions:
     - toc:

@@ -12,7 +12,7 @@ O’Duinn makes clear [distinctions](https://oduinn.com/2020/02/25/distributed-t
 
 How he describes ‘distributed’:
 
-All humans on the team work together, even though they are physically apart from each other. This is not a collection of individuals who each do solo heads-down work from different locations. Instead, this is a group of humans who coordinate their work with others on their physically distributed team. Because everyone on the physically distributed team is "remote" from someone, it is clear that everyone on the team has equal responsibility to communicate and coordinate their work with coworkers – regardless of whether any individual human is working from a building with the company logo on the door, from home, from a coworking space, a hotel or a parked car! Example usage: “I work on a distributed team”, “my team is distributed”.
+> All humans on the team work together, even though they are physically apart from each other. This is not a collection of individuals who each do solo heads-down work from different locations. Instead, this is a group of humans who coordinate their work with others on their physically distributed team. Because everyone on the physically distributed team is "remote" from someone, it is clear that everyone on the team has equal responsibility to communicate and coordinate their work with coworkers – regardless of whether any individual human is working from a building with the company logo on the door, from home, from a coworking space, a hotel or a parked car! Example usage: “I work on a distributed team”, “my team is distributed”.
 
 ## Why distributed is important
 
